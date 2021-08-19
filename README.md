@@ -1,2 +1,2 @@
 # Practice
-practice advanced comments about git
+practice advanced comments about git  and learn about github too
