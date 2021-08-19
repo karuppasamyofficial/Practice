@@ -7,3 +7,5 @@ create new whats app appliaction
 5. added video feature
 
 6.added audio feature
+
+7.added train features ,so that user can play a came
