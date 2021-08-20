@@ -1,5 +1,7 @@
 create new whats app appliaction
-1.login scree
+
+1.login sreen
+
 2.home page 
 3. notification screen 
 4. added hiding contact
