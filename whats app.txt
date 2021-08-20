@@ -5,7 +5,7 @@ create new whats app appliaction
 2.home page 
 3. notification screen 
 4. added hiding contact
-6.add attachment feature
+6.added attachment feature
 5. added video feature
 
 6.added audio feature
