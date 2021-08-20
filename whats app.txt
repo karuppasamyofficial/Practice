@@ -10,4 +10,4 @@ create new whats app appliaction
 
 7.added train features ,so that user can play a came
 
-8.adding group features with 200 users
+8.adding group features with 700 users
